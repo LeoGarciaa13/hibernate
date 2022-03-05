@@ -9,6 +9,7 @@ public class Driver {
 	  crudOperations.findEntity();
 	  crudOperations.updateEntity();
 	  crudOperations.removeEntity();
+	  crudOperations.insertEntity();
 	  
 	 }
 	}
